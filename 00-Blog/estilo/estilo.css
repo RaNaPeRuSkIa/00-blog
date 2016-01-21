@@ -1,0 +1,35 @@
+body{
+    font-family: arial, helvetica, sans-serif;
+    background-color: cornflowerblue;
+    margin: 0 auto;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+nav ul li{
+    display: inline;
+    padding: 5px;
+}
+span{
+    background-color: paleturquoise;
+}
+article div{
+    background-color: paleturquoise;
+}
+section{
+    background-color: darkturquoise;
+    width: 60%;
+    float: left;
+}
+aside{
+    background-color: darkturquoise;
+    width: 40%;
+    float: left;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
